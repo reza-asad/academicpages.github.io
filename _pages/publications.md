@@ -8,3 +8,7 @@ author_profile: true
 <b>Reza Asad, Almut Burchard.
 <b>Arxiv, 2020</b>.
 
+<b>[Cloudmaskgan: A content-aware unpaired image-to-image translation algorithm for remote sensing imagery](http://reza-asad.github.io/publication/2019-09-22-cloudmaskgan)</b> <br> 
+Sorour Mohajerani, <b>Reza Asad</b>, Kumar Abhishek, Neha Sharma, Alysha van Duynhoven, Parvaneh Saeedi.
+<i>IEEE International Conference on Image Processing</i>. <b>ICIP 2019</b>.
+
