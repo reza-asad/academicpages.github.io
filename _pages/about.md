@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at Simon Fraser University working with Prof [Manolis Savva](https://msavva.github.io). My research intresets lie in applications of machine learning in computer vision and graphics. In particualr, I'm very intereseted in understanding, generating and retrieving 3D scenes. In recent years, representing 3D scenes using graphs has coincided with great advances in Graph Representation Learning. In my recent projects I have been taking the graph perspective to better understand 3D scenes.  
+I'm a PhD candidate at Simon Fraser University working with Prof [Manolis Savva](https://msavva.github.io). My research intresets lie in applications of machine learning in computer vision and graphics. In particualr, I'm very intereseted in understanding, generating and retrieving 3D scenes. In recent years, representing 3D scenes using graphs has coincided with great advances in Graph Representation Learning. In my recent projects I have been using a graph representation perspective to investigate research problems invloving 3D scenes.  
 
 A data-driven personal website
 ======
