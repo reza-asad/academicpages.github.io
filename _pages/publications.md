@@ -12,3 +12,7 @@ author_profile: true
 Sorour Mohajerani, <b>Reza Asad</b>, Kumar Abhishek, Neha Sharma, Alysha van Duynhoven, Parvaneh Saeedi.
 <i>IEEE International Conference on Image Processing</i>. <b>ICIP 2019</b>.
 
+<b>[Embedded eigenvalues and the nonlinear Schrödinger equation](http://reza-asad.github.io//publication/2011-03-25-embedded-eigenvalues-schrodinger-equation)</b> <br> 
+<b>Reza Asad</b>, Gideon Simpson.
+<b>Journal of Mathematical Physics, 2011</b>.
+
