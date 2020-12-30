@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 <b>[Steiner symmetrization along a certain equidistributed sequence of directions](https://reza-asad.github.io//publication/2020-05-27-stiener-symmetrization)</b> <br> 
-<b>Reza Asad, Almut Burchard.
+<b>Reza Asad</b>, Almut Burchard.
 <b>Arxiv, 2020</b>.
 
 <b>[Cloudmaskgan: A content-aware unpaired image-to-image translation algorithm for remote sensing imagery](http://reza-asad.github.io/publication/2019-09-22-cloudmaskgan)</b> <br> 
