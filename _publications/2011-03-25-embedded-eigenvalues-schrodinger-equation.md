@@ -1,7 +1,7 @@
 ---
 title: "Autoregressive Score Matching"
 collection: publications
-permalink: /publications/ARSM
+permalink: /publication/2011-03-25-embedded-eigenvalues-schrodinger-equation
 venue: "The 34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
 date: 2020-9-30
 citation: 'Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon. <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.'
