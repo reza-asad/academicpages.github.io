@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[[up-to-date cv in PDF]]
