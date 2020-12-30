@@ -5,5 +5,5 @@ permalink: /publication/2020-05-27-stiener-symmetrization
 date: 2020-05-27
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/pdf/2005.13597.pdf'
-citation: '<b> Reza Asad </b>, Almut Burchard. <i>Arxiv (2020)</i>..'
+citation: '<b> Reza Asad </b>, Almut Burchard. <i>Arxiv (2020)</i>.'
 ---
