@@ -14,4 +14,4 @@ redirect_from:
 
 News
 ======
-- [May 2020] My undergraduate adviser published the results from our USRA project from 2012 (funded by NSERC) on [arxiv](https://arxiv.org/abs/2005.13597). Our results seem to help other mathematicians. 
+- [May 2020] My undergraduate adviser published the results from our USRA project from 2012 (funded by NSERC) on [arxiv](https://arxiv.org/abs/2005.13597). Our results have been helpful for other mathematicians. 
