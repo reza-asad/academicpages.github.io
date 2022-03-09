@@ -14,8 +14,8 @@ redirect_from:
 
 # About Me
 - I am a PhD candidate at Simon Fraser University working with Prof [Manolis Savva](https://msavva.github.io). 
-- My research intresets lie in applications of machine learning in computer vision and computer graphics. In particualr, I am very intereseted in understanding, generating and retrieving 3D scenes. In recent years, representing 3D scenes using graphs has coincided with great advances in Graph Representation Learning. I have been using this perspective in my recent projects. In addition, I am very intereseted in recent developements in self-supervised learning for images and would love to bring those successes into 3D.
-- I recieved my Bachelor's Degree in Pure Mathematics from Universit of Toronto. I was a research and teaching assistant at University of British Coloumbia for two years working in Applied Mathematics. After that I moved to San Francisco Bay Area and worked as a full time Data Scientist for 3 Years.
+- My current research is focused on 3D scene understanding. In particualr, I am very intereseted in building self-superivsed representations of 3D scenes that allow for better retrieval of similar 3D subscenes. Once we are successful, we can edit or compress the similar subscenes in whatever way that is needed for a downstream application. Furthermore, we can render the results in a virtual or augmented reality setting. My work is inspired by current developements in self-supervised learning for images and my goal is to transfer the successes from 2D to 3D.
+- I recieved my Bachelor's Degree in Pure Mathematics from University of Toronto. I was a research and teaching assistant at University of British Coloumbia for two years working in Applied Mathematics. After that I moved to San Francisco Bay Area and worked as a full time Data Scientist for 3 Years.
 
 News
 ======
