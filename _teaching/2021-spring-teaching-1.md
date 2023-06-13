@@ -1,5 +1,5 @@
 ---
-title: "CMPT700: Research Methods and Technical Writing", "111"
+title: "CMPT700: Research Methods and Technical Writing, 111"
 collection: teaching-assistant
 type: "Graduate Course"
 venue: "Simon Fraser University, Department of Computer Science"
