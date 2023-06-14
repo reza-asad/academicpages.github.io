@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[3DSSR: 3D Subscene Retrieval](https://reza-asad.github.io//publications/2023-06-18-3dssr)</b> <br> 
+<b>[3DSSR: 3D Subscene Retrieval](https://reza-asad.github.io//publication/2023-06-18-3dssr)</b> <br> 
 <b>Reza Asad</b>, Manolis Savva.
 <i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
 
