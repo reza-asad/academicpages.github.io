@@ -3,7 +3,6 @@ title: "Embedded eigenvalues and the nonlinear Schrödinger equation"
 collection: publications
 permalink: /publication/2011-03-25-embedded-eigenvalues-schrodinger-equation
 date: 2011-03-25
-venue: 'Journal of Mathematical Physics'
 citation: '<b>Reza Asad</b>, Gideon Simpson. <i><b>Journal of Mathematical Physics 2011</b></i>.'
 ---
 [[PDF]](https://arxiv.org/pdf/1101.2485.pdf)[[Code]](https://tspace.library.utoronto.ca/handle/1807/26121)
