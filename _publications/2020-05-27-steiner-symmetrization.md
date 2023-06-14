@@ -3,7 +3,6 @@ title: "Steiner symmetrization along a certain equidistributed sequence of direc
 collection: publications
 permalink: /publication/2020-05-27-stiener-symmetrization
 date: 2020-05-27
-venue: 'Arxiv'
 citation: '<b> Reza Asad </b>, Almut Burchard. <b>Arxiv 2020</b>.'
 ---
 
