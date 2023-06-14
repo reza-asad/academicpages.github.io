@@ -8,7 +8,6 @@ author_profile: true
 <b>Reza Asad</b>, Manolis Savva.
 <i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
 
-<br>
 <b>[Steiner symmetrization along a certain equidistributed sequence of directions](https://reza-asad.github.io//publication/2020-05-27-stiener-symmetrization)</b> <br> 
 <b>Reza Asad</b>, Almut Burchard.
 <b>Arxiv 2020</b>.
