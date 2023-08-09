@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[3DSSR: 3D Subscene Retrieval](https://reza-asad.github.io//publication/2023-06-18-3dssr)</b> <br> 
 <b>Reza Asad</b>, Manolis Savva.
-<i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2023</b>.
+<i>IEEE Computer Vision and Pattern Recognition</i>. <b>CVPR 2023 Workshop on Structural and Compositional Learning on 3D Data</b>.
 
 <b>[Steiner symmetrization along a certain equidistributed sequence of directions](https://reza-asad.github.io//publication/2020-05-27-stiener-symmetrization)</b> <br> 
 <b>Reza Asad</b>, Almut Burchard.
